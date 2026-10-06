@@ -14,3 +14,5 @@ No build tools required. Open any `.html` file in your browser to view the layou
 
 ```bash
 python3 -m http.server
+```
+Then navigate to http://localhost:8000.
