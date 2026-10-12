@@ -5,7 +5,7 @@ A custom-coded, single-page website mockup for a fictional florist business. Bui
 ## Tech Stack
 
 * **HTML5**
-* **Tailwind CSS (via CDN)**
+* **Tailwind CSS**
 * **Vanilla JavaScript**
 
 ## Local Development
